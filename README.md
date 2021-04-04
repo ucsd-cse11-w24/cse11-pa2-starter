@@ -38,6 +38,7 @@ Note: You will create 3 classes in one file, and a dozen or more objects. Keep i
 - Note: To get information about the user (when creating user objects) you will have to go to their profile and see how many followers they have and then instantiate a new object with that value.
 - Here’s an example to demonstrate the fields of the User class:
 <img src="img/img1.png" width="500">
+
 #### Class 2: Tweet
 - The class Tweet will be defining a tweet
 - Required fields - Each object of class Tweet must have a : 
