@@ -16,7 +16,7 @@ Different assignments in this course have different collaboration policies. On t
 - There will not be an autograded part for this assignment. You will see your score with feedback a couple of days after the due date.
 
 ## Resubmission/Late Policy
-- We will not be accepting this PA late.
+- We will not accept this PA late.
 - If you did not submit this PA or did poorly (<75%), you can fix your PA and resubmit it to the PA resubsmission assignment in Gradescope to earn a maximum of 75% the points.
 - If you scored higher than 75% on the origianl PA, we may grade the PA, but will not change your original grade.
 - The resubmission will be open for 2 weeks after the PA's original due date.
