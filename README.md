@@ -1,5 +1,5 @@
 # CSE-11 Programming Assignment 2
-### Due Date: Wednesday, April 14, 11:59PM Pacific Time
+### Due Date: Sunday, August 8, 11:59PM Pacific Time
 ## Learning Goals
 - Write and use classes to represent real world data, and relations between them
 - Write methods that make decisions
