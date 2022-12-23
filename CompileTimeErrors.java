@@ -1,10 +1,10 @@
 class CompileTimeErrors{
-    int checkNumber(double number){
-        if (number > 0){
-            return "The number " + number " is positive.";
+    int checkNumber(double myNumber){
+        if (myNumber > 0){
+            return "The number " + myNumber " is positive.";
         }
-        else if ("number" < 0){ 
-            return "The number " + number + " is negative."; 
+        else if ("myNumber" < 0){ 
+            return "The number " + myNumber + " is negative."; 
         }
         return The number is zero.;
     }
